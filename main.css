@@ -1,0 +1,13 @@
+.anagrams__header {
+  padding: 20px 0;
+}
+
+.anagrams__controls {
+  padding-bottom: 32px;
+}
+
+@media screen and (max-width: 450px) {
+  .anagrams__btn {
+    margin: 10px 0;
+  }
+}
